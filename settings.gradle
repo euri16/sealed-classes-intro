@@ -1,0 +1,2 @@
+rootProject.name='Sealed Classes Intro'
+include ':app'
